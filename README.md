@@ -26,7 +26,9 @@ During this internship, I gained practical experience in application support, se
 
 ### 📜 Internship Completion Certificate
 
-This repository contains my official internship completion certificate issued by Kyzer Software Pvt. Ltd.
+I am happy to share my internship completion certificate issued by **Kyzer Software Pvt. Ltd.**
+
+![Kyzer Software Internship Completion Certificate](https://raw.githubusercontent.com/amitpachpute2510/Internship-Competition-Certificate-/refs/heads/main/Kyzer%20Software%20Pvt%20Ltd.%20%28%20Intership%20Completion%20Certificate%20%29.jpeg)
 
 ### 🙏 Acknowledgement
 
